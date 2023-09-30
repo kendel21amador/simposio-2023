@@ -28,7 +28,7 @@ if (count($general) != 0) {
                         <?php echo $item['Titulo'] ?>
                         <?php echo $item['Year'] ?>
                      </h2>
-                     <div style="display: flex; max-width: 100%;">
+                     <div id="botones" style="display: flex;">
                         <a  href="https://forms.gle/y1JV7rWVGEE1ao9X7" class="primary-btn pr mr-1" target="_blank">inscríbete como participante</a>
                         <a href="https://forms.gle/7ABZrwkrTPtZ8djJ9" class="primary-btn pr mr-1" target="_blank">inscríbete como instructor</a>
                      </div>
@@ -37,6 +37,16 @@ if (count($general) != 0) {
             </div>
          </div>
       </section>
+
+      <style>
+         @media only screen and (max-width:600px) {
+            #botones{
+               display: flex;
+               flex-direction: column;
+            }
+         }
+      </style>
+
       <?php
    }
 }
