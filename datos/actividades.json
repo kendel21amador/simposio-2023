@@ -1,0 +1,59 @@
+{
+    "Simpsio": [
+        {
+            "Fecha_evento": "2023-11-02",
+            "talleres": [
+                {
+                    "Nombre": "Modelos predictivos con R Parte I",
+                    "Hora": "10:30 a 12:00",
+                    "Invitado": "Carlos Morales",
+                    "Profesion": "CEO",
+                    "Correo": "cristopherwindt.com@gmail.com",
+                    "Aula": "Auditorio fenomenal",
+                    "Foto": "r.png"
+                },
+                {
+                    "Nombre": "Introducción a programación con Python",
+                    "Hora": "10:30 a 12:00",
+                    "Invitado": "",
+                    "Profesion": "CEO",
+                    "Correo": "cristopherwindt.com@gmail.com",
+                    "Aula": "Auditorio fenomenal",
+                    "Foto": "py.png"
+                },
+                {
+                    "Nombre": "Taller IA en Educación",
+                    "Hora": "10:30 a 12:00",
+                    "Invitado": "Diego lagarsis",
+                    "Profesion": "CEO",
+                    "Correo": "g22@gmail.com",
+                    "Aula": "yuio",
+                    "Foto": "AI.jpg"
+                }
+            ]
+        },
+        {
+            "Fecha_evento": "2023-11-03",
+            "talleres": [
+                {
+                    "Nombre": "Modelos predictivos con R Parte II",
+                    "Hora": "8:30 a 12:00",
+                    "Invitado": "Carlos Morales",
+                    "Profesion": "CEO",
+                    "Correo": "douglas.jimenezvalle@ucr.ac.cr",
+                    "Aula": "Auditorio fenomenal",
+                    "Foto": "r.png"
+                },
+                {
+                    "Nombre": "Introducción a la programación generativa con PHP",
+                    "Hora": "8:30 a 12:00",
+                    "Invitado": "",
+                    "Profesion": "CEO",
+                    "Correo": "douglas.jimenezvalle@ucr.ac.cr",
+                    "Aula": "Auditorio fenomenahl",
+                    "Foto": "PHP.png"
+                }
+            ]
+        }
+    ]
+}
