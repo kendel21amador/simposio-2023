@@ -15,7 +15,7 @@ if (count($general) != 0) {
 
 
       <!-- Hero Section Begin -->
-      <section class="hero-section set-bg" data-setbg="img/img-caribe/caribe-noche.jpg">
+      <section class="hero-section set-bg" data-setbg="img/img-caribe/caribe-noche2.jpg">
          <div class="container">
             <div class="row">
                <div id="foto-persona" class="col-lg-5">
@@ -28,7 +28,7 @@ if (count($general) != 0) {
                         <?php echo $item['Titulo'] ?>
                         <?php echo $item['Year'] ?>
                      </h2>
-                     <div id="botones" style="display: flex;">
+                     <div id="botones" style="">
                         <a  href="https://forms.gle/y1JV7rWVGEE1ao9X7" class="primary-btn pr mr-1" target="_blank">inscríbete como participante</a>
                         <a href="https://forms.gle/7ABZrwkrTPtZ8djJ9" class="primary-btn pr mr-1" target="_blank">inscríbete como instructor</a>
                      </div>
@@ -39,10 +39,17 @@ if (count($general) != 0) {
       </section>
 
       <style>
+         #botones a {
+               margin-bottom: 20px;
+            }
          @media only screen and (max-width:600px) {
             #botones{
-               display: flex;
                flex-direction: column;
+               
+            }
+
+            #botones a {
+               margin-bottom: 20px;
             }
          }
       </style>
@@ -250,7 +257,7 @@ if (count($general) != 0) {
                <h2>Objetivo General</h2>
                <div class="row1-container p-0 mb-0">
                   <div class="box box-down blue">
-                     <p><b>1. </b>Fomentar el intercambio de conocimientos y experiencias entre docentes y estudiantes
+                     <p><b></b>Fomentar el intercambio de conocimientos y experiencias entre docentes y estudiantes
                         de la carrera de Bachillerato en Informática Empresarial de las Sedes Regionales de la
                         Universidad de Costa Rica, con el propósito de impulsar la adopción de Innovaciones Tecnológicas
                         en las Organizaciones y la Educación, así como explorar cómo estas contribuyen al desarrollo
@@ -565,7 +572,7 @@ if (count($general) != 0) {
                            foreach ($dat as $item) {
                               ?>
                               <a target="_blank"
-                                 href="https://api.whatsapp.com/send?phone=<?php echo $item['Whatsapp'] ?>&text=<?php echo $item['Des_wp'] ?>"
+                                 href="https://wa.me/message/Z555RHBD4TOIA1"
                                  class="btn btn-primary" id="color-boton-whatsapp"><i class="fa fa-whatsapp" aria-hidden="true"></i>
                                  Whatsapp</a>
                               <?php

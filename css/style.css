@@ -281,7 +281,7 @@ ol {
 	
 	padding-top: 36px;
 	padding-bottom: 37px;
-	width: 500px;
+	width: 10px;
     position: absolute;
     top: -45px !important;
     left: -3px;
@@ -291,6 +291,9 @@ ol {
 	display: inline-block;
 }
 
+.nav-menu .mainmenu {
+	background-color: #111111;
+}
 
 .nav-menu {
 	float: right;

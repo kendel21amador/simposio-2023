@@ -88,19 +88,19 @@ include 'parts/header.php';
         <li class="li">
           <div class="date">VIII SIMPOSIO</div>
           <div class="title"></div>
-          <div class="descr"><strong>Fecha:</strong> 19 y 20 de noviembre del 2020 <br><strong>Lugar:</strong> Sede de
+          <div class="descr"><strong>Fecha:</strong> 19 y 20 de noviembre del 2020 <br><strong>Lugar:</strong> Modalidad virtual, Sede de
             Guanacaste</div>
         </li>
         <li class="li">
           <div class="date">IX SIMPOSIO</div>
           <div class="title"></div>
-          <div class="descr"><strong>Fecha:</strong> 18 al 22 de octubre del 2021 <br><strong>Lugar:</strong> Sede de
+          <div class="descr"><strong>Fecha:</strong> 18 al 22 de octubre del 2021 <br><strong>Lugar:</strong> Modalidad virtual, Sede de
             Occidente</div>
         </li>
         <li class="li">
           <div class="date">X SIMPOSIO</div>
           <div class="title"></div>
-          <div class="descr"><strong>Fecha:</strong> <br><strong>Lugar:</strong> </div>
+          <div class="descr"><strong>Fecha:</strong> 03 y 04 de noviembre del 2022<br><strong>Lugar:</strong> Sede del Atlántico</div>
         </li>
         <li class="li">
           <div class="date">XI SIMPOSIO</div>

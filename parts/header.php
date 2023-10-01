@@ -36,9 +36,9 @@
     </div>
 
     <!-- Header Section Begin -->
-    <header class="header-section ">
+    <header class="header-section">
     <div class="container">
-    <div class="logo" style="width: 100%;">
+    <div class="logo">
     <?php
     $json_data = file_get_contents("datos/datos_generales.json");
     $dat = json_decode($json_data, true);
@@ -60,6 +60,7 @@
     }
     ?>
 </div>
+
 <style>
 .img-logo{
     max-width: 110px; height: auto;
@@ -69,11 +70,14 @@
         max-width: 0px;
         background-color: blue;
     }
-}</style>
+
+}
+
+</style>
 
 
         <div  class="nav-menu">
-            <nav class="mainmenu mobile-menu ">
+            <nav class="mainmenu mobile-menu" style="background-color: #007bff;">
                 <ul>
                     <li <?php if ($_SERVER['PHP_SELF'] == '/index.php') echo 'class="active"'; ?>><a href="./index.php">Inicio</a></li>
                     <!-- <li <?php if ($_SERVER['PHP_SELF'] == '/about-us.php') echo 'class="active"'; ?>><a href="./about-us.php">Nosotros</a></li> -->
