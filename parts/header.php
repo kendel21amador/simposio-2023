@@ -47,10 +47,10 @@
         ?>
         <div style="display: flex; justify-content: flex-start;">
             <a href="./index.php">
-                <img class="" src="./img/ucr/firma-horizontal-dos-lineas-cmky.png" alt="" style="max-width: 200px; height: auto;">
+                <img class="" src="./img/ucr/firma-horizontal-dos-lineas-cmky.png" alt="" style="max-width: 150px; margin-top: 20px;"> <!-- max-width: 200px; height: auto; -->
             </a>
             <a href="./index.php">
-                <img class="" src="./img/ucr/SC-CIE VERTICAL.png" alt="" style="max-width: 110px; height: auto;">
+                <img class="img-logo" src="./img/ucr/SC-CIE VERTICAL.png" alt="" style=""> <!--  max-width: 110px; height: auto;-->
             </a>
             <a href="./index.php" >
                 <img class="img-logo" src="./img/ucr/logo XI SIMPOSIO BLANCO.png" alt="" style="">
@@ -62,23 +62,22 @@
 </div>
 
 <style>
+
 .img-logo{
     max-width: 110px; height: auto;
 }
 @media (max-width: 424px) {
     .img-logo{
-        max-width: 0px;
-        background-color: blue;
+        max-width: 100px;
     }
-
 }
 
 </style>
 
 
         <div  class="nav-menu">
-            <nav class="mainmenu mobile-menu" style="background-color: #007bff;">
-                <ul>
+            <nav class="mainmenu mobile-menu" style="background-color: white;">
+                <ul style="background-color: #007bff;">
                     <li <?php if ($_SERVER['PHP_SELF'] == '/index.php') echo 'class="active"'; ?>><a href="./index.php">Inicio</a></li>
                     <!-- <li <?php if ($_SERVER['PHP_SELF'] == '/about-us.php') echo 'class="active"'; ?>><a href="./about-us.php">Nosotros</a></li> -->
                     <li <?php if ($_SERVER['PHP_SELF'] == '/history.php') echo 'class="active"'; ?>><a href="./history.php">Historia</a></li>
