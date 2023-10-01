@@ -23,36 +23,19 @@ if (count($general) != 0) {
                </div>
                <div id="texto-principal" class="col-lg-7">
                   <div class="hero-text text-align: center; align-items: center;" >
-                     <!-- <span>5 to 9 may 2019, mardavall hotel, New York</span> -->
-                     <h2 id="text-inicial" style="color: #ffffff;">
+                     <h2 id="text-inicial">
                         <?php echo $item['Titulo'] ?>
                         <?php echo $item['Year'] ?>
                      </h2>
-                     <div id="botones" style="">
-                        <a  href="https://forms.gle/y1JV7rWVGEE1ao9X7" class="primary-btn pr mr-1" target="_blank">inscríbete como participante</a>
-                        <a href="https://forms.gle/7ABZrwkrTPtZ8djJ9" class="primary-btn pr mr-1" target="_blank">inscríbete como instructor</a>
+                     <div id="botones">
+                        <a  href="https://forms.gle/y1JV7rWVGEE1ao9X7" class="primary-btn pr mr-1" target="_blank">Inscríbete como participante</a>
+                        <a href="https://forms.gle/7ABZrwkrTPtZ8djJ9" class="primary-btn pr mr-1" target="_blank">Inscríbete como instructor</a>
                      </div>
                   </div>
                </div>
             </div>
          </div>
       </section>
-
-      <style>
-         #botones a {
-               margin-bottom: 20px;
-            }
-         @media only screen and (max-width:600px) {
-            #botones{
-               flex-direction: column;
-               
-            }
-
-            #botones a {
-               margin-bottom: 20px;
-            }
-         }
-      </style>
 
       <?php
    }
@@ -97,122 +80,12 @@ if (count($general) != 0) {
    </div>
 </section>
 
-
-<style>
-   
-   :root {
-      --red: hsl(0, 78%, 62%);
-      --cyan: hsl(180, 62%, 55%);
-      --orange: hsl(34, 97%, 64%);
-      --blue: hsl(212, 86%, 64%);
-      --varyDarkBlue: hsl(234, 12%, 34%);
-      --grayishBlue: hsl(229, 6%, 66%);
-      --veryLightGray: hsl(0, 0%, 98%);
-      --weight1: 200;
-      --weight2: 400;
-      --weight3: 600;
-   }
-
-   .box {
-      border-radius: 5px;
-      box-shadow: 0px 15px 30px -20px var(--grayishBlue);
-      padding: 30px;
-      margin: 30px;
-      margin-bottom: 80px;
-   }
-
-   @media (max-width: 450px) {
-      .box {
-         height: 200%;
-      }
-   }
-
-   @media (max-width: 950px) and (min-width: 450px) {
-      .box {
-         text-align: center;
-         height: 200%;
-      }
-   }
-
-   .blue {
-      border-top: 3px solid #0664b9;
-   }
-
-   h2 {
-      color: var(--varyDarkBlue);
-      font-weight: var(--weight3);
-   }
-
-
-   @media (min-width: 950px) {
-      .row1-container {
-         display: flex;
-         justify-content: center;
-         align-items: center;
-      }
-
-      .row2-container {
-         display: flex;
-         justify-content: center;
-         align-items: center;
-      }
-
-      .box-down {
-         position: relative;
-         top: 15px;
-      }
-
-      .box {
-         width: 200%;
-
-      }
-   }
-
-   .about {
-      background-color: #ffffff;
-   }
-
-   .about .about_img figure {
-      margin: 0;
-   }
-
-   .about .about_img figure img {
-      width: 100%;
-      height: 10%;
-   }
-
-   .about .titlepage p {
-      padding: 30px 0px;
-      color: #2a2a2c;
-      font-size: 17px;
-      line-height: 32px;
-      font-weight: 400;
-      display: inline-block;
-      text-align: justify;
-   }
-
-   .about .titlepage .titulo {
-      text-align: center;
-   }
-
-   .about .titlepage .titulo h2 {
-      font-size: 40px;
-      font-weight: 700;
-      color: #171822;
-      margin-bottom: 10px;
-   }
-
-   .box p {
-      text-align: justify;
-   }
-</style>
-
 <section class="team-member-section mt-5">
    <div class="container">
       <div class="row">
          <div class="col-lg-12">
             <div class="section-title">
-            <i><h2 style="font-size: 38px; border-bottom: 2px solid #007bff;">"Innovaciones Tecnológicas en las Organizaciones y la Educación"</h2></i>
+            <i><h2 id="slogan">"Innovaciones Tecnológicas en las Organizaciones y la Educación"</h2></i>
             </div>
          </div>
       </div>
