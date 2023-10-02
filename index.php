@@ -376,7 +376,7 @@ if (count($general) != 0) {
 <!-- Newslatter Section Begin -->
 <section class="newslatter-section mt-5">
    <div class="container">
-      <div class="newslatter-inner set-bg" data-setbg="img/img-caribe/fondo-part.fw.png">
+      <div class="newslatter-inner set-bg" data-setbg="img/img-caribe/info4.jpg">
          <div class="ni-text">
             <h3>Inscripción como Instructor Taller XI Simposio</h3>
             <p>¡Únete como Instructor en el XI Simposio de Innovaciones Tecnológicas en las Organizaciones y la Educación y Comparte Tu Experiencia!</p> 
@@ -390,7 +390,7 @@ if (count($general) != 0) {
                foreach ($dat as $item) {
                   ?>
                   <a target="_blank" class="btn btn-primary" id="color-boton"
-                     href="https://forms.gle/7ABZrwkrTPtZ8djJ9">inscríbete aquí</a>
+                     href="https://forms.gle/7ABZrwkrTPtZ8djJ9">Inscríbete aquí</a>
                   <?php
                }
             }
@@ -399,6 +399,33 @@ if (count($general) != 0) {
       </div>
    </div>
 </section>
+
+<section class="newslatter-section mt-5" style="margin-top: 1000px;">
+   <div class="container">
+      <div class="newslatter-inner set-bg" data-setbg="img/img-caribe/info3.jpg">
+         <div class="ni-text">
+            <h3>Inscripción como Participante Taller XI Simposio</h3>
+            <p>¡Únete como Participante en el XI Simposio de Innovaciones Tecnológicas en las Organizaciones y la Educación!</p> 
+         </div>
+         <div>
+            <?php
+            $json_data = file_get_contents("datos/datos_generales.json");
+            $dat = json_decode($json_data, true);
+
+            if (count($dat) != 0) {
+               foreach ($dat as $item) {
+                  ?>
+                  <a target="_blank" class="btn btn-primary" id="color-boton"
+                     href="https://forms.gle/y1JV7rWVGEE1ao9X7">Inscríbete aquí</a>
+                  <?php
+               }
+            }
+            ?>
+         </div>
+      </div>
+   </div>
+</section>
+
 <!-- Newslatter Section End -->
 <?php
 $json_data = file_get_contents("datos/datos_generales.json");
