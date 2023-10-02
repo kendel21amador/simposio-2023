@@ -6,28 +6,28 @@
                 {
                     "Nombre": "Modelos predictivos con R Parte I",
                     "Hora": "10:30 a 12:00",
-                    "Invitado": "Carlos Morales",
+                    "Invitado": "Carlos Morales Castro",
                     "Profesion": "CEO",
                     "Correo": "cristopherwindt.com@gmail.com",
-                    "Aula": "Auditorio fenomenal",
+                    "Aula": "Por definir",
                     "Foto": "r.png"
                 },
                 {
                     "Nombre": "Introducción a programación con Python",
                     "Hora": "10:30 a 12:00",
-                    "Invitado": "",
+                    "Invitado": "Por definir",
                     "Profesion": "CEO",
                     "Correo": "cristopherwindt.com@gmail.com",
-                    "Aula": "Auditorio fenomenal",
+                    "Aula": "Por definir",
                     "Foto": "py.png"
                 },
                 {
                     "Nombre": "Taller IA en Educación",
                     "Hora": "10:30 a 12:00",
-                    "Invitado": "Diego lagarsis",
+                    "Invitado": "Por definir",
                     "Profesion": "CEO",
                     "Correo": "g22@gmail.com",
-                    "Aula": "yuio",
+                    "Aula": "Por definir",
                     "Foto": "AI.jpg"
                 }
             ]
@@ -38,20 +38,20 @@
                 {
                     "Nombre": "Modelos predictivos con R Parte II",
                     "Hora": "8:30 a 12:00",
-                    "Invitado": "Carlos Morales",
+                    "Invitado": "Carlos Morales Castro",
                     "Profesion": "CEO",
                     "Correo": "douglas.jimenezvalle@ucr.ac.cr",
-                    "Aula": "Auditorio fenomenal",
+                    "Aula": "Por definir",
                     "Foto": "r.png"
                 },
                 {
                     "Nombre": "Introducción a la programación generativa con PHP",
                     "Hora": "8:30 a 12:00",
-                    "Invitado": "",
+                    "Invitado": "Por definir",
                     "Profesion": "CEO",
                     "Correo": "douglas.jimenezvalle@ucr.ac.cr",
-                    "Aula": "Auditorio fenomenahl",
-                    "Foto": "PHP.png"
+                    "Aula": "Por definir",
+                    "Foto": "p.png"
                 }
             ]
         }

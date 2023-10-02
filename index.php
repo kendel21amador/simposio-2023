@@ -250,8 +250,8 @@ if (count($general) != 0) {
 
 <!-- Team Member Section End -->
 <!-- Schedule Section Begin -->
-<!--
-<section class="schedule-section spad">
+
+<section class="schedule-section spad" style="padding: 0;">
    <div class="container">
       <div class="row">
          <div class="col-lg-12">
@@ -273,26 +273,34 @@ if (count($general) != 0) {
                   $indice = 1;
 
                   // if(count($dat)!=0){
-                  
-                  foreach ($eventos as $item) {
-                     $FechaEvento = $item['Fecha_evento'];
-                     $talleres = $item['talleres'];
-
-
+               
+                     $primerElemento = true;
+                     
+                     foreach ($eventos as $item) {
+                         $FechaEvento = $item['Fecha_evento'];
+                         $talleres = $item['talleres'];
+                     
+                         // Verificar si es el primer elemento
+                         if ($primerElemento) {
+                             $claseActiva = 'active';
+                             $primerElemento = false; // Desactivar para los siguientes elementos
+                         } else {
+                             $claseActiva = '';
+                         }
+                         ?>
+                     
+                         <li class="nav-item <?php echo $claseActiva; ?>">
+                             <a class="nav-link <?php echo $claseActiva; ?>" data-toggle="tab" href="#tabs-<?php echo $indice; ?>" role="tab">
+                                 <h5>Día <?php echo $indice; ?></h5>
+                                 <p><?php echo $FechaEvento; ?></p>
+                             </a>
+                         </li>
+                     
+                         <?php
+                         $indice++;
+                     }
                      ?>
-                     <li class="nav-item">
-                        <a class="nav-link" data-toggle="tab" href="#tabs-<?php echo $indice?>" role="tab">
-                           <h5>Día
-                              <?php echo $indice ?>
-                           </h5>
-                           <p>
-                              <?php echo $FechaEvento ?>
-                           </p>
-                        </a>
-                     </li>
-                     <?php
-                     $indice++;
-                  } ?>
+                     
                </ul>
                
                <div class="tab-content">
@@ -336,9 +344,9 @@ if (count($general) != 0) {
                                                 <li>
                                                    <?php echo $taller['Profesion'] ?>
                                                 </li>
-                                                <li><i class="fa fa-envelope"></i>
+                                               <!-- <li><i class="fa fa-envelope"></i>
                                                    <?php echo $taller['Correo'] ?>
-                                                </li>
+                                                </li>-->
                                              </ul>
                                  
                                           </div>
@@ -370,7 +378,7 @@ if (count($general) != 0) {
          </div>
       </div>
 </section>
--->
+
 
 <!-- Schedule Section End -->
 <!-- Newslatter Section Begin -->
