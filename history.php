@@ -100,7 +100,7 @@ include 'parts/header.php';
         <li class="li">
           <div class="date">X SIMPOSIO</div>
           <div class="title"></div>
-          <div class="descr"><strong>Fecha:</strong> 03 y 04 de noviembre del 2022<br><strong>Lugar:</strong> Sede del Atlántico</div>
+          <div class="descr"><strong>Fecha:</strong> 03 y 04 de noviembre del 2022<br><strong>Lugar:</strong> Modalidad virtual, Sede del Atlántico</div>
         </li>
         <li class="li">
           <div class="date">XI SIMPOSIO</div>
