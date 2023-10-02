@@ -250,7 +250,7 @@ if (count($general) != 0) {
 
 <!-- Team Member Section End -->
 <!-- Schedule Section Begin -->
-
+<!-- 
 <section id="agenda" class="schedule-section spad" style="padding: 0;">
    <div class="container">
       <div class="row">
@@ -344,9 +344,9 @@ if (count($general) != 0) {
                                                 <li>
                                                    <?php echo $taller['Profesion'] ?>
                                                 </li>
-                                               <!-- <li><i class="fa fa-envelope"></i>
+                                                <li><i class="fa fa-envelope"></i> 
                                                    <?php echo $taller['Correo'] ?>
-                                                </li>-->
+                                                </li>
                                              </ul>
                                  
                                           </div>
@@ -378,7 +378,7 @@ if (count($general) != 0) {
          </div>
       </div>
 </section>
-
+-->
 
 <!-- Schedule Section End -->
 <!-- Newslatter Section Begin -->
