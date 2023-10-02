@@ -251,7 +251,7 @@ if (count($general) != 0) {
 <!-- Team Member Section End -->
 <!-- Schedule Section Begin -->
 
-<section class="schedule-section spad" style="padding: 0;">
+<section id="agenda" class="schedule-section spad" style="padding: 0;">
    <div class="container">
       <div class="row">
          <div class="col-lg-12">
@@ -382,7 +382,7 @@ if (count($general) != 0) {
 
 <!-- Schedule Section End -->
 <!-- Newslatter Section Begin -->
-<section class="newslatter-section mt-5">
+<section id="inscripciones" class="newslatter-section mt-5">
    <div class="container">
       <div class="newslatter-inner set-bg" data-setbg="img/img-caribe/info4.jpg">
          <div class="ni-text">

@@ -70,6 +70,8 @@
                     <!-- <li //<?php if ($_SERVER['PHP_SELF'] == '/about-us.php') echo 'class="active"'; ?>><a href="./about-us.php">Nosotros</a></li> -->
                     <li <?php if ($_SERVER['PHP_SELF'] == '/history.php') echo 'class="active"'; ?>><a href="./history.php">Historia</a></li>
                     <!--<li <//?php if ($_SERVER['PHP_SELF'] == '/speaker.php') echo 'class="active"'; ?>><a href="./speaker.php">Invitados</a></li>-->
+                    <li><a href="#agenda">Agenda</a></li>
+                    <li><a href="#inscripciones">Inscríbite</a></li>
                     </div>
                 </ul>
             </nav>
