@@ -42,7 +42,7 @@
             <div class="speaker-item">
                <div class="row">
                   <div class="col-lg-6">
-                     <div class="si-pic">
+                     <div class="si-pic" style="width: 200px;">
                         <img src="./img/<?php echo $invitado['Imagen']?>" alt="">
                      </div>
                   </div>
@@ -52,12 +52,15 @@
                            <h4><?php echo $invitado['Nombre']?></h4>
                            <span><?php echo $invitado['Profesion']?></span>
                         </div>
+                        <!--
                         <div class="si-social">
                            <a href="<?php echo $invitado['Facebook_URL']?>"><i class="fa fa-facebook"></i></a>
                            <a href="<?php echo $invitado['Instagram_URL']?>"><i class="fa fa-instagram" aria-hidden="true"></i> </a>
                            <a href="<?php echo $invitado['LinkedIn_URL']?>"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
                         </div>
+                        
                         <p><?php echo $invitado['Descripcion']?></p>
+                        -->
                      </div>
                   </div>
                </div>

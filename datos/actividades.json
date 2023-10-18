@@ -1,57 +1,198 @@
 {
     "Simpsio": [
         {
-            "Fecha_evento": "2023-11-02",
+            "Fecha_evento": "01-11-2023",
             "talleres": [
                 {
-                    "Nombre": "Modelos predictivos con R Parte I",
-                    "Hora": "10:30 a 12:00",
-                    "Invitado": "Carlos Morales Castro",
+                    "Nombre": "Recibimiento de participantes y recorrido por instalaciones de la Sede",
+                    "Hora": "14:00 a 15:00",
+                    "Invitado": "Coordinación de Carrera de Informática Empresarial",
+                    "Profesion": "",
+                    "Correo": "",
+                    "Aula": "",
+                    "Foto": "salud.png",
+                    "requisitos": "No requiere de materiales"
+                },
+                {
+                    "Nombre": "Recorrido histórico por el centro de Limón",
+                    "Hora": "15:00 a 16:30",
+                    "Invitado": "Axel Alvarado",
+                    "Profesion": "",
+                    "Correo": "",
+                    "Aula": "",
+                    "Foto": "desfile.png",
+                    "requisitos": "No requiere de materiales"
+                },
+                {
+                    "Nombre": "Cena Sede del Caribe",
+                    "Hora": "18:30 a 20:00",
+                    "Invitado": "Coordinación de Carrera de Informática Empresarial",
+                    "Profesion": "",
+                    "Correo": "",
+                    "Aula": "",
+                    "Foto": "cena.png",
+                    "requisitos": "No requiere de materiales"
+                }
+                
+            ]
+        },
+        {
+            "Fecha_evento": "02-11-2023",
+            "talleres": [
+                {
+                    "Nombre": "Acto Inaugural",
+                    "Hora": "9:00 a 10:30",
+                    "Invitado": "Coordinación de Carrera de Informática Empresarial",
+                    "Profesion": "",
+                    "Correo": "",
+                    "Aula": "Por definir",
+                    "Foto": "corte-de-cinta.png",
+                    "requisitos": "No requiere de materiales"
+                },
+                {
+                    "Nombre": "Micro-taller sobre usos practicos de la ciencia de datos Parte I (Estudiantes y Docentes)",
+                    "Hora": "10:30 a 12:15",
+                    "Invitado": "MCI. Carlos Morales Castro",
+                    "Profesion": "MCI",
+                    "Correo": "",
+                    "Aula": "Por definir",
+                    "Foto": "dataci.jpg",
+                    "requisitos": "Llevar computadora y durante el taller se instalarán las herramientas necesarias"
+                },
+                {
+                    "Nombre": "Introducción a programación con Python (Estudiantes)",
+                    "Hora": "10:30 a 12:15",
+                    "Invitado": "MAG. Erick Miranda Patiño",
                     "Profesion": "CEO",
                     "Correo": "cristopherwindt.com@gmail.com",
                     "Aula": "Por definir",
-                    "Foto": "r.png"
+                    "Foto": "py.png",
+                    "requisitos": "No requiere de materiales"
                 },
                 {
-                    "Nombre": "Introducción a programación con Python",
-                    "Hora": "10:30 a 12:00",
-                    "Invitado": "Por definir",
-                    "Profesion": "CEO",
-                    "Correo": "cristopherwindt.com@gmail.com",
-                    "Aula": "Por definir",
-                    "Foto": "py.png"
-                },
-                {
-                    "Nombre": "Taller IA en Educación",
-                    "Hora": "10:30 a 12:00",
-                    "Invitado": "Por definir",
+                    "Nombre": "Introduccion al aprendizaje automatico con Pytorch (Estudiantes)",
+                    "Hora": "10:30 a 12:15",
+                    "Invitado": "PH. D. Saúl Calderón Ramírez",
                     "Profesion": "CEO",
                     "Correo": "g22@gmail.com",
                     "Aula": "Por definir",
-                    "Foto": "AI.jpg"
+                    "Foto": "pytorch.png",
+                    "requisitos": "No requiere de materiales"
+                },
+                {
+                    "Nombre": "Taller de Liderazgo (Estudiantes)",
+                    "Hora": "2:00 a 4:30",
+                    "Invitado": "Grupo de Liderazgo Sede del Caribe ",
+                    "Profesion": "CEO",
+                    "Correo": "g22@gmail.com",
+                    "Aula": "Por definir",
+                    "Foto": "../img/ucr/firma-vertical-dos-lineas-cmyk.png",
+                    "requisitos": "Traer ropa cómoda y ropa extra"
+                },
+                {
+                    "Nombre": "Taller IA en Educación (Docentes)",
+                    "Hora": "2:00 a 4:30",
+                    "Invitado": "Grupo de Liderazgo Sede del Caribe ",
+                    "Profesion": "CEO",
+                    "Correo": "g22@gmail.com",
+                    "Aula": "Por definir",
+                    "Foto": "AI.jpg",
+                    "requisitos": "No requiere de materiales"
                 }
             ]
         },
         {
-            "Fecha_evento": "2023-11-03",
+            "Fecha_evento": "03-11-2023",
             "talleres": [
                 {
-                    "Nombre": "Modelos predictivos con R Parte II",
-                    "Hora": "8:30 a 12:00",
-                    "Invitado": "Carlos Morales Castro",
+                    "Nombre": "Micro-taller sobre usos practicos de la ciencia de datos II (Estudiantes y Docentes)",
+                    "Hora": "8:10 a 12:10",
+                    "Invitado": "MCI. Carlos Morales Castro",
                     "Profesion": "CEO",
                     "Correo": "douglas.jimenezvalle@ucr.ac.cr",
                     "Aula": "Por definir",
-                    "Foto": "r.png"
+                    "Foto": "dataci.jpg",
+                    "requisitos": "Llevar computadora y durante el taller se instalarán las herramientas necesarias"
                 },
                 {
-                    "Nombre": "Introducción a la programación generativa con PHP",
-                    "Hora": "8:30 a 12:00",
-                    "Invitado": "Por definir",
+                    "Nombre": "Introducción a la programación generativa con PHP (Estudiantes)",
+                    "Hora": "8:10 a 12:10",
+                    "Invitado": "MAG. Erick Miranda Patiño",
                     "Profesion": "CEO",
                     "Correo": "douglas.jimenezvalle@ucr.ac.cr",
                     "Aula": "Por definir",
-                    "Foto": "p.png"
+                    "Foto": "php.png",
+                    "requisitos": "No requiere de materiales"
+                },
+                {
+                    "Nombre": "AZURE AI Solutions (Estudiantes)",
+                    "Hora": "8:10 a 12:10",
+                    "Invitado": "Empresa Microsoft",
+                    "Profesion": "CEO",
+                    "Correo": "douglas.jimenezvalle@ucr.ac.cr",
+                    "Aula": "Por definir",
+                    "Foto": "azure.png",
+                    "requisitos": "No requiere de materiales"
+                },
+                {
+                    "Nombre": "Desarrollo Móvil con Flutter (Estudiantes)",
+                    "Hora": "8:10 a 12:10",
+                    "Invitado": "Mag. Jose Pablo Noguera Espinoza",
+                    "Profesion": "CEO",
+                    "Correo": "douglas.jimenezvalle@ucr.ac.cr",
+                    "Aula": "Por definir",
+                    "Foto": "flutter.png",
+                    "requisitos": "Llevar computadora, instalado Android Studio, Visual Studio Code, Cable USB para conectar propio móvil"
+                },
+                {
+                    "Nombre": "Herramientas para el desarrollo de aplicaciones profesionales (Estudiantes)",
+                    "Hora": "8:10 a 12:10",
+                    "Invitado": "Lic. Luis Zarate Montero, Empresa SOlvosoft",
+                    "Profesion": "CEO",
+                    "Correo": "douglas.jimenezvalle@ucr.ac.cr",
+                    "Aula": "Por definir",
+                    "Foto": "desarrollo.png",
+                    "requisitos": "Llevar computadora, software requerido git y phython3"
+                },
+                {
+                    "Nombre": "Conferencia: ''Introducción a la Inteligencia Artificial Generativa: Cambiando paradigmas en programación''",
+                    "Hora": "8:10 a 9:00",
+                    "Invitado": "Mag. Erick Miranda Patiño",
+                    "Profesion": "CEO",
+                    "Correo": "douglas.jimenezvalle@ucr.ac.cr",
+                    "Aula": "Por definir",
+                    "Foto": "mano-robotica.png",
+                    "requisitos": "No requiere de materiales"
+                },
+                {
+                    "Nombre": "Conversatorio sobre el proceso la actualizacion de la malla curricular",
+                    "Hora": "9:00 a 10:15",
+                    "Invitado": "Comisión de Docencia Intersedes",
+                    "Profesion": "CEO",
+                    "Correo": "douglas.jimenezvalle@ucr.ac.cr",
+                    "Aula": "Por definir",
+                    "Foto": "sello.png",
+                    "requisitos": "No requiere de materiales"
+                },
+                {
+                    "Nombre": "Taller de investigación: Desarollo de habilidades para la investigación",
+                    "Hora": "10:15 a 12:15",
+                    "Invitado": "Dr. Bernal Martínez Gutierrez y Dra. Cand. Alexandra Mora Cruz",
+                    "Profesion": "CEO",
+                    "Correo": "douglas.jimenezvalle@ucr.ac.cr",
+                    "Aula": "Por definir",
+                    "Foto": "habilidad.png",
+                    "requisitos": "No requiere de materiales"
+                },
+                {
+                    "Nombre": "Cierre de actividades",
+                    "Hora": "1:15",
+                    "Invitado": "Coordinación de Carrera de Informática Empresarial",
+                    "Profesion": "CEO",
+                    "Correo": "douglas.jimenezvalle@ucr.ac.cr",
+                    "Aula": "Por definir",
+                    "Foto": "despedida.png",
+                    "requisitos": "No requiere de materiales"
                 }
             ]
         }

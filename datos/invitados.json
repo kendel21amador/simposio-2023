@@ -1,101 +1,74 @@
 [
     {
-        "Nombre": "Robert Perez",
-        "Profesion": "CEO",
-        "Descripcion": "Administrador desde hace 20 a\u00f1os",
+        "Nombre": "Itorino Espinoza Torres",
+        "Profesion": "Máster en Tecnologías de la información y comunicación para la gestión organizacional",
+        "Descripcion": "Docente de la carrera de Informática Empresarial Sede del Caribe",
         "Facebook_URL": "https://www.facebook.com/",
         "Instagram_URL": "www.I.com",
         "LinkedIn_URL": "www.L.com",
-        "Imagen": "speaker-1.jpg"
+        "Imagen": "ito.jpg"
     },
     {
-        "Nombre": "Juan Perez",
-        "Profesion": "CEO",
-        "Descripcion": "Administrador desde hace 20 a\u00f1os",
+        "Nombre": "Luis Zárate",
+        "Profesion": "Licenciado en Ciencias de la Computación e informática",
+        "Descripcion": "Solvosoft",
         "Facebook_URL": "www.f.com",
         "Instagram_URL": "www.I.com",
         "LinkedIn_URL": "www.L.com",
-        "Imagen": "speaker-2.jpg"
+        "Imagen": "luisZarate.png"
     },
     {
-        "Nombre": "Maria Perez",
-        "Profesion": "CEO",
-        "Descripcion": "Administrador desde hace 10 a\u00f1os",
+        "Nombre": "Carlos Morales Castro",
+        "Profesion": "Máster en Ciencias de la Computación e Informática",
+        "Descripcion": "Docente de la carrera de Informática Empresarial Sede del Caribe",
         "Facebook_URL": "www.f.com",
         "Instagram_URL": "www.I.com",
         "LinkedIn_URL": "www.L.com",
-        "Imagen": "speaker-3.jpg"
+        "Imagen": "carlos.jpg"
     },
     {
-        "Nombre": "Pedro Perez",
-        "Profesion": "CEO",
+        "Nombre": "Saúl Calderón Ramírez",
+        "Profesion": "Ph. D. en Ciencias de la computación, en el Instituto de Inteligencia Artificial, en la Universidad De Montfort, Reino Unido",
         "Descripcion": "Administrador desde hace 50 a\u00f1os",
         "Facebook_URL": "www.f.com",
         "Instagram_URL": "www.I.com",
         "LinkedIn_URL": "www.L.com",
-        "Imagen": "speaker-4.jpg"
+        "Imagen": "saul.jpg"
     },
     {
-        "Nombre": "Roger Perez",
-        "Profesion": "CEO",
-        "Descripcion": "Administrador desde hace 20 a\u00f1os",
+        "Nombre": "Microsoft",
+        "Profesion": "Microsoft Corporation",
+        "Descripcion": "",
         "Facebook_URL": "www.f.com",
         "Instagram_URL": "www.I.com",
         "LinkedIn_URL": "www.L.com",
-        "Imagen": "speaker-5.jpg"
+        "Imagen": "1-1.png"
     },
     {
-        "Nombre": "Diego Perez",
-        "Profesion": "Lagarto",
-        "Descripcion": "Administrador desde hace 20 a\u00f1os",
+        "Nombre": "Eric Patino Miranda",
+        "Profesion": "Master en Tecnología y Sistemas de Información Empresarial",
+        "Descripcion": "",
         "Facebook_URL": "www.f.com",
         "Instagram_URL": "www.I.com",
         "LinkedIn_URL": "www.L.com",
-        "Imagen": "speaker-6.jpg"
+        "Imagen": "eric-patino-miranda.jpg"
     },
     {
-        "Nombre": "Diego Perez",
-        "Profesion": "Lagarto",
-        "Descripcion": "Administrador desde hace 20 a\u00f1os",
+        "Nombre": "Liderazgo",
+        "Profesion": "Grupo de Liderazgo UCR",
+        "Descripcion": "",
         "Facebook_URL": "www.f.com",
         "Instagram_URL": "www.I.com",
         "LinkedIn_URL": "www.L.com",
-        "Imagen": "member-1.jpg"
+        "Imagen": "liderazgo.png"
     },
     {
-        "Nombre": "Diego Perez",
-        "Profesion": "Lagarto",
-        "Descripcion": "Administrador desde hace 20 a\u00f1os",
+        "Nombre": "Carrera de Informática Empresarial Sede de Guancaste",
+        "Profesion": "UCR",
+        "Descripcion": "",
         "Facebook_URL": "www.f.com",
         "Instagram_URL": "www.I.com",
         "LinkedIn_URL": "www.L.com",
-        "Imagen": "member-6.jpg"
-    },
-    {
-        "Nombre": "Diego Perez",
-        "Profesion": "Lagarto",
-        "Descripcion": "Administrador desde hace 20 a\u00f1os",
-        "Facebook_URL": "www.f.com",
-        "Instagram_URL": "www.I.com",
-        "LinkedIn_URL": "www.L.com",
-        "Imagen": "member-2.jpg"
-    },
-    {
-        "Nombre": "Diego Perez",
-        "Profesion": "Lagarto",
-        "Descripcion": "Administrador desde hace 20 a\u00f1os",
-        "Facebook_URL": "www.f.com",
-        "Instagram_URL": "www.I.com",
-        "LinkedIn_URL": "www.L.com",
-        "Imagen": "member-8.jpg"
-    },
-    {
-        "Nombre": "Diego Perez",
-        "Profesion": "Lagarto",
-        "Descripcion": "Administrador desde hace 20 a\u00f1os",
-        "Facebook_URL": "www.f.com",
-        "Instagram_URL": "www.I.com",
-        "LinkedIn_URL": "www.L.com",
-        "Imagen": "member-8.jpg"
+        "Imagen": "2-2.png"
     }
 ]

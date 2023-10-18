@@ -187,7 +187,7 @@ if (count($general) != 0) {
 
 <!-- Counter Section End -->
 <!-- Team Member Section Begin -->
-<!-- 
+ 
 <section class="team-member-section mt-0">
    <div class="container">
       <div class="row">
@@ -217,13 +217,15 @@ if (count($general) != 0) {
          $item = $dat[$i];
          ?>
          <div class="member-item set-bg" data-setbg="./img/<?php echo $item['Imagen'] ?>">
-            <div class="mi-social">
+         <!--   
+         <div class="mi-social">
                <div class="mi-social-inner bg-gradient">
                   <a href="<?php echo $item['Facebook_URL'] ?>"><i class="fa fa-facebook"></i></a>
                   <a href="<?php echo $item['Instagram_URL'] ?>"><i class="fa fa-instagram"></i></a>
                   <a href="<?php echo $item['LinkedIn_URL'] ?>"><i class="fa fa-linkedin"></i></a>
                </div>
             </div>
+      -->
             <div class="mi-text">
                <h5>
                   <?php echo $item['Nombre'] ?>
@@ -246,12 +248,12 @@ if (count($general) != 0) {
    }
    ?>
 </section>
- -->
+ 
 
 <!-- Team Member Section End -->
 <!-- Schedule Section Begin -->
-<!-- 
-<section id="agenda" class="schedule-section spad" style="padding: 0;">
+ 
+<section id="agenda" class="schedule-section spad">
    <div class="container">
       <div class="row">
          <div class="col-lg-12">
@@ -341,12 +343,16 @@ if (count($general) != 0) {
                                                 <li><i class="fa fa-user"></i>
                                                    <?php echo $taller['Invitado'] ?>
                                                 </li>
+                                                
+                                                <!--
                                                 <li>
-                                                   <?php echo $taller['Profesion'] ?>
+                                                   <?php //echo $taller['Profesion'] ?>
                                                 </li>
+                                                
                                                 <li><i class="fa fa-envelope"></i> 
-                                                   <?php echo $taller['Correo'] ?>
+                                                   <?php //echo $taller['Correo'] ?>
                                                 </li>
+                                 -->
                                              </ul>
                                  
                                           </div>
@@ -356,9 +362,15 @@ if (count($general) != 0) {
                                              <li><i class="fa fa-clock-o"></i>
                                                 <?php echo $taller['Hora'] ?>
                                              </li>
-                                             <li><i class="fa fa-map-marker"></i>
-                                                <?php echo $taller['Aula'] ?>
+                                             
+                                             <li><i class="fa fa-list"></i>
+                                                <?php echo $taller['requisitos'] ?>
                                              </li>
+                                             <!--
+                                             <li><i class="fa fa-map-marker"></i>
+                                                <?php //echo $taller['Aula'] ?>
+                                             </li>
+                                 -->
                                           </ul>
                                        </div>
                                     </div>
@@ -378,7 +390,7 @@ if (count($general) != 0) {
          </div>
       </div>
 </section>
--->
+
 
 <!-- Schedule Section End -->
 <!-- Newslatter Section Begin -->
