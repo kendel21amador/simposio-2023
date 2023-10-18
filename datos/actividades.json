@@ -16,7 +16,7 @@
                 {
                     "Nombre": "Recorrido histórico por el centro de Limón",
                     "Hora": "15:00 a 16:30",
-                    "Invitado": "Axel Alvarado",
+                    "Invitado": "Mag. Axel Alvarado, Historiador",
                     "Profesion": "",
                     "Correo": "",
                     "Aula": "",
@@ -52,7 +52,7 @@
                 {
                     "Nombre": "Micro-taller sobre usos practicos de la ciencia de datos Parte I (Estudiantes y Docentes)",
                     "Hora": "10:30 a 12:15",
-                    "Invitado": "MCI. Carlos Morales Castro",
+                    "Invitado": "Mci. Carlos Morales Castro",
                     "Profesion": "MCI",
                     "Correo": "",
                     "Aula": "Por definir",
@@ -62,12 +62,12 @@
                 {
                     "Nombre": "Introducción a programación con Python (Estudiantes)",
                     "Hora": "10:30 a 12:15",
-                    "Invitado": "MAG. Erick Miranda Patiño",
+                    "Invitado": "Mag. Erick Miranda Patiño",
                     "Profesion": "CEO",
                     "Correo": "cristopherwindt.com@gmail.com",
                     "Aula": "Por definir",
                     "Foto": "py.png",
-                    "requisitos": "No requiere de materiales"
+                    "requisitos": "Llevar computadora"
                 },
                 {
                     "Nombre": "Introduccion al aprendizaje automatico con Pytorch (Estudiantes)",
@@ -77,7 +77,7 @@
                     "Correo": "g22@gmail.com",
                     "Aula": "Por definir",
                     "Foto": "pytorch.png",
-                    "requisitos": "No requiere de materiales"
+                    "requisitos": "Llevar computadora"
                 },
                 {
                     "Nombre": "Taller de Liderazgo (Estudiantes)",
@@ -92,7 +92,7 @@
                 {
                     "Nombre": "Taller IA en Educación (Docentes)",
                     "Hora": "2:00 a 4:30",
-                    "Invitado": "Grupo de Liderazgo Sede del Caribe ",
+                    "Invitado": "Mag. Itorino Espinoza",
                     "Profesion": "CEO",
                     "Correo": "g22@gmail.com",
                     "Aula": "Por definir",
@@ -107,7 +107,7 @@
                 {
                     "Nombre": "Micro-taller sobre usos practicos de la ciencia de datos II (Estudiantes y Docentes)",
                     "Hora": "8:10 a 12:10",
-                    "Invitado": "MCI. Carlos Morales Castro",
+                    "Invitado": "Mci. Carlos Morales Castro",
                     "Profesion": "CEO",
                     "Correo": "douglas.jimenezvalle@ucr.ac.cr",
                     "Aula": "Por definir",
@@ -117,12 +117,12 @@
                 {
                     "Nombre": "Introducción a la programación generativa con PHP (Estudiantes)",
                     "Hora": "8:10 a 12:10",
-                    "Invitado": "MAG. Erick Miranda Patiño",
+                    "Invitado": "Mag. Erick Miranda Patiño",
                     "Profesion": "CEO",
                     "Correo": "douglas.jimenezvalle@ucr.ac.cr",
                     "Aula": "Por definir",
                     "Foto": "php.png",
-                    "requisitos": "No requiere de materiales"
+                    "requisitos": "Llevar computadora y durante el taller se instalarán las herramientas necesarias"
                 },
                 {
                     "Nombre": "AZURE AI Solutions (Estudiantes)",
@@ -132,7 +132,7 @@
                     "Correo": "douglas.jimenezvalle@ucr.ac.cr",
                     "Aula": "Por definir",
                     "Foto": "azure.png",
-                    "requisitos": "No requiere de materiales"
+                    "requisitos": "Llevar computadora y durante el taller se instalarán las herramientas necesarias"
                 },
                 {
                     "Nombre": "Desarrollo Móvil con Flutter (Estudiantes)",
@@ -191,7 +191,7 @@
                     "Profesion": "CEO",
                     "Correo": "douglas.jimenezvalle@ucr.ac.cr",
                     "Aula": "Por definir",
-                    "Foto": "despedida.png",
+                    "Foto": "diplomatico.png",
                     "requisitos": "No requiere de materiales"
                 }
             ]
