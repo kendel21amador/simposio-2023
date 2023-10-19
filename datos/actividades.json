@@ -50,8 +50,8 @@
                     "requisitos": "No requiere de materiales"
                 },
                 {
-                    "Nombre": "Micro-taller sobre usos practicos de la ciencia de datos Parte I (Estudiantes y Docentes)",
-                    "Hora": "10:30 a 12:15",
+                    "Nombre": "Micro-taller sobre usos prácticos de la ciencia de datos Parte I (Estudiantes y Docentes)",
+                    "Hora": "10:30 a 12:30",
                     "Invitado": "Mci. Carlos Morales Castro",
                     "Profesion": "MCI",
                     "Correo": "",
@@ -61,7 +61,7 @@
                 },
                 
                 {
-                    "Nombre": "Introduccion al aprendizaje automatico con Pytorch (Estudiantes)",
+                    "Nombre": "Introducción al aprendizaje automático con Pytorch (Estudiantes)",
                     "Hora": "10:30 a 12:15",
                     "Invitado": "PH. D. Saúl Calderón Ramírez",
                     "Profesion": "CEO",
@@ -78,7 +78,7 @@
                     "Correo": "g22@gmail.com",
                     "Aula": "Por definir",
                     "Foto": "gamificacion.png",
-                    "requisitos": "Llevar computadora"
+                    "requisitos": "No requiere de materiales"
                 },
                 {
                     "Nombre": "Taller de Liderazgo (Estudiantes)",
@@ -106,8 +106,8 @@
             "Fecha_evento": "03-11-2023",
             "talleres": [
                 {
-                    "Nombre": "Micro-taller sobre usos practicos de la ciencia de datos II (Estudiantes y Docentes)",
-                    "Hora": "8:10 a 12:10",
+                    "Nombre": "Micro-taller sobre usos prácticos de la ciencia de datos II (Estudiantes y Docentes)",
+                    "Hora": "8:00 a 9:30",
                     "Invitado": "Mci. Carlos Morales Castro",
                     "Profesion": "CEO",
                     "Correo": "douglas.jimenezvalle@ucr.ac.cr",
@@ -117,7 +117,7 @@
                 },
                 {
                     "Nombre": "AZURE AI Solutions (Estudiantes)",
-                    "Hora": "8:10 a 12:10",
+                    "Hora": "9:00 a 12:10",
                     "Invitado": "Empresa Microsoft",
                     "Profesion": "CEO",
                     "Correo": "douglas.jimenezvalle@ucr.ac.cr",
@@ -143,7 +143,7 @@
                     "Correo": "douglas.jimenezvalle@ucr.ac.cr",
                     "Aula": "Por definir",
                     "Foto": "desarrollo.png",
-                    "requisitos": "Llevar computadora, software requerido git y phython3"
+                    "requisitos": "Llevar computadora, software requerido git y python3"
                 },
                 {
                     "Nombre": "Proyecto: Algunas herramientas gratuitas para la recolección de datos geoespaciales",
@@ -156,7 +156,7 @@
                     "requisitos": "No requiere de materiales"
                 },
                 {
-                    "Nombre": "Conversatorio sobre el proceso la actualizacion de la malla curricular",
+                    "Nombre": "Conversatorio sobre el proceso la actualización de la malla curricular",
                     "Hora": "9:15 a 10:15",
                     "Invitado": "Comisión de Docencia Intersedes",
                     "Profesion": "CEO",

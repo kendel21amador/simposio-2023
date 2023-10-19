@@ -36,7 +36,7 @@
         "Imagen": "saul.jpg"
     },
     {
-        "Nombre": "MSI. Esteban Sanabria Mora",
+        "Nombre": "Esteban Sanabria Mora",
         "Profesion": "",
         "Descripcion": "Administrador desde hace 50 a\u00f1os",
         "Facebook_URL": "www.f.com",
@@ -46,7 +46,7 @@
     },
     {
         "Nombre": "Mary Angel Canales",
-        "Profesion": "",
+        "Profesion": "Estudiante de la carrera de Informática Empresarial Sede de Guanacaste",
         "Descripcion": "Administrador desde hace 50 a\u00f1os",
         "Facebook_URL": "www.f.com",
         "Instagram_URL": "www.I.com",
@@ -55,7 +55,7 @@
     },
     {
         "Nombre": "Andres David Gutierrez Corales",
-        "Profesion": "",
+        "Profesion": "Estudiante de la carrera de Informática Empresarial Sede de Guanacaste",
         "Descripcion": "Administrador desde hace 50 a\u00f1os",
         "Facebook_URL": "www.f.com",
         "Instagram_URL": "www.I.com",
@@ -79,14 +79,5 @@
         "Instagram_URL": "www.I.com",
         "LinkedIn_URL": "www.L.com",
         "Imagen": "liderazgo.png"
-    },
-    {
-        "Nombre": "Carrera de Informática Empresarial Sede de Guancaste",
-        "Profesion": "UCR",
-        "Descripcion": "",
-        "Facebook_URL": "www.f.com",
-        "Instagram_URL": "www.I.com",
-        "LinkedIn_URL": "www.L.com",
-        "Imagen": "2-2.png"
     }
 ]
