@@ -59,16 +59,7 @@
                     "Foto": "dataci.jpg",
                     "requisitos": "Llevar computadora y durante el taller se instalarán las herramientas necesarias"
                 },
-                {
-                    "Nombre": "Introducción a programación con Python (Estudiantes)",
-                    "Hora": "10:30 a 12:15",
-                    "Invitado": "Mag. Erick Miranda Patiño",
-                    "Profesion": "CEO",
-                    "Correo": "cristopherwindt.com@gmail.com",
-                    "Aula": "Por definir",
-                    "Foto": "py.png",
-                    "requisitos": "Llevar computadora"
-                },
+                
                 {
                     "Nombre": "Introduccion al aprendizaje automatico con Pytorch (Estudiantes)",
                     "Hora": "10:30 a 12:15",
@@ -77,6 +68,16 @@
                     "Correo": "g22@gmail.com",
                     "Aula": "Por definir",
                     "Foto": "pytorch.png",
+                    "requisitos": "Llevar computadora"
+                },
+                {
+                    "Nombre": "Taller: Técnicas de Gamificación en el Aula Informática (Docentes)",
+                    "Hora": "10:30 a 12:15",
+                    "Invitado": "Msi. Esteban Sanabria Mora",
+                    "Profesion": "CEO",
+                    "Correo": "g22@gmail.com",
+                    "Aula": "Por definir",
+                    "Foto": "gamificacion.png",
                     "requisitos": "Llevar computadora"
                 },
                 {
@@ -115,16 +116,6 @@
                     "requisitos": "Llevar computadora y durante el taller se instalarán las herramientas necesarias"
                 },
                 {
-                    "Nombre": "Introducción a la programación generativa con PHP (Estudiantes)",
-                    "Hora": "8:10 a 12:10",
-                    "Invitado": "Mag. Erick Miranda Patiño",
-                    "Profesion": "CEO",
-                    "Correo": "douglas.jimenezvalle@ucr.ac.cr",
-                    "Aula": "Por definir",
-                    "Foto": "php.png",
-                    "requisitos": "Llevar computadora y durante el taller se instalarán las herramientas necesarias"
-                },
-                {
                     "Nombre": "AZURE AI Solutions (Estudiantes)",
                     "Hora": "8:10 a 12:10",
                     "Invitado": "Empresa Microsoft",
@@ -155,18 +146,18 @@
                     "requisitos": "Llevar computadora, software requerido git y phython3"
                 },
                 {
-                    "Nombre": "Conferencia: ''Introducción a la Inteligencia Artificial Generativa: Cambiando paradigmas en programación''",
-                    "Hora": "8:10 a 9:00",
-                    "Invitado": "Mag. Erick Miranda Patiño",
+                    "Nombre": "Proyecto: Algunas herramientas gratuitas para la recolección de datos geoespaciales",
+                    "Hora": "8:10 a 9:15",
+                    "Invitado": "Estudiantes de la carrrera de Informática Empresarial Sede de Guanacaste",
                     "Profesion": "CEO",
                     "Correo": "douglas.jimenezvalle@ucr.ac.cr",
                     "Aula": "Por definir",
-                    "Foto": "mano-robotica.png",
+                    "Foto": "astronauta.png",
                     "requisitos": "No requiere de materiales"
                 },
                 {
                     "Nombre": "Conversatorio sobre el proceso la actualizacion de la malla curricular",
-                    "Hora": "9:00 a 10:15",
+                    "Hora": "9:15 a 10:15",
                     "Invitado": "Comisión de Docencia Intersedes",
                     "Profesion": "CEO",
                     "Correo": "douglas.jimenezvalle@ucr.ac.cr",
@@ -175,7 +166,7 @@
                     "requisitos": "No requiere de materiales"
                 },
                 {
-                    "Nombre": "Taller de investigación: Desarollo de habilidades para la investigación",
+                    "Nombre": "Taller: Desarollo de habilidades para la investigación",
                     "Hora": "10:15 a 12:15",
                     "Invitado": "Dr. Bernal Martínez Gutierrez y Dra. Cand. Alexandra Mora Cruz",
                     "Profesion": "CEO",

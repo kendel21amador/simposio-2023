@@ -36,6 +36,33 @@
         "Imagen": "saul.jpg"
     },
     {
+        "Nombre": "MSI. Esteban Sanabria Mora",
+        "Profesion": "",
+        "Descripcion": "Administrador desde hace 50 a\u00f1os",
+        "Facebook_URL": "www.f.com",
+        "Instagram_URL": "www.I.com",
+        "LinkedIn_URL": "www.L.com",
+        "Imagen": "EstebanSanabria.jpg"
+    },
+    {
+        "Nombre": "Mary Angel Canales",
+        "Profesion": "",
+        "Descripcion": "Administrador desde hace 50 a\u00f1os",
+        "Facebook_URL": "www.f.com",
+        "Instagram_URL": "www.I.com",
+        "LinkedIn_URL": "www.L.com",
+        "Imagen": "MaryAngelCanales.jpeg"
+    },
+    {
+        "Nombre": "Andres David Gutierrez Corales",
+        "Profesion": "",
+        "Descripcion": "Administrador desde hace 50 a\u00f1os",
+        "Facebook_URL": "www.f.com",
+        "Instagram_URL": "www.I.com",
+        "LinkedIn_URL": "www.L.com",
+        "Imagen": "AndresDavidGutierrezCorales.jfif"
+    },
+    {
         "Nombre": "Microsoft",
         "Profesion": "Microsoft Corporation",
         "Descripcion": "",
@@ -43,15 +70,6 @@
         "Instagram_URL": "www.I.com",
         "LinkedIn_URL": "www.L.com",
         "Imagen": "1-1.png"
-    },
-    {
-        "Nombre": "Eric Patino Miranda",
-        "Profesion": "Master en Tecnología y Sistemas de Información Empresarial",
-        "Descripcion": "",
-        "Facebook_URL": "www.f.com",
-        "Instagram_URL": "www.I.com",
-        "LinkedIn_URL": "www.L.com",
-        "Imagen": "eric-patino-miranda.jpg"
     },
     {
         "Nombre": "Liderazgo",
