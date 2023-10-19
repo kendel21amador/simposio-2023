@@ -117,7 +117,7 @@
                 },
                 {
                     "Nombre": "AZURE AI Solutions (Estudiantes)",
-                    "Hora": "9:00 a 12:10",
+                    "Hora": "9:30 a 12:10",
                     "Invitado": "Empresa Microsoft",
                     "Profesion": "CEO",
                     "Correo": "douglas.jimenezvalle@ucr.ac.cr",
@@ -133,17 +133,17 @@
                     "Correo": "douglas.jimenezvalle@ucr.ac.cr",
                     "Aula": "Por definir",
                     "Foto": "flutter.png",
-                    "requisitos": "Llevar computadora, instalado Android Studio, Visual Studio Code, Cable USB para conectar propio móvil"
+                    "requisitos": "Llevar computadora, instalado Android Studio, Visual Studio Code, Cable USB para conectar móvil propio"
                 },
                 {
                     "Nombre": "Herramientas para el desarrollo de aplicaciones profesionales (Estudiantes)",
                     "Hora": "8:10 a 12:10",
-                    "Invitado": "Lic. Luis Zarate Montero, Empresa SOlvosoft",
+                    "Invitado": "Lic. Luis Zarate Montero, Empresa Solvosoft",
                     "Profesion": "CEO",
                     "Correo": "douglas.jimenezvalle@ucr.ac.cr",
                     "Aula": "Por definir",
                     "Foto": "desarrollo.png",
-                    "requisitos": "Llevar computadora, software requerido git y python3"
+                    "requisitos": "Llevar computadora, software requerido git y python 3"
                 },
                 {
                     "Nombre": "Proyecto: Algunas herramientas gratuitas para la recolección de datos geoespaciales",
@@ -156,7 +156,7 @@
                     "requisitos": "No requiere de materiales"
                 },
                 {
-                    "Nombre": "Conversatorio sobre el proceso la actualización de la malla curricular",
+                    "Nombre": "Conversatorio sobre el proceso la actualización de la malla curricular (Docentes)",
                     "Hora": "9:15 a 10:15",
                     "Invitado": "Comisión de Docencia Intersedes",
                     "Profesion": "CEO",
@@ -166,7 +166,7 @@
                     "requisitos": "No requiere de materiales"
                 },
                 {
-                    "Nombre": "Taller: Desarollo de habilidades para la investigación",
+                    "Nombre": "Taller: Desarollo de habilidades para la investigación (Docentes)",
                     "Hora": "10:15 a 12:15",
                     "Invitado": "Dr. Bernal Martínez Gutierrez y Dra. Cand. Alexandra Mora Cruz",
                     "Profesion": "CEO",
