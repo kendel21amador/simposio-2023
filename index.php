@@ -25,6 +25,7 @@ if (count($general) != 0) {
                   <div class="hero-text text-align: center; align-items: center;" >
                      <h2 id="text-inicial">
                         <?php echo $item['Titulo'] ?>
+                        <?php echo $item['Year'] ?>
                      </h2>
                      <div id="botones">
                         <a  href="https://forms.gle/y1JV7rWVGEE1ao9X7" class="primary-btn pr mr-1" target="_blank">Inscríbete como participante</a>
