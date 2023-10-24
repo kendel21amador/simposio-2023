@@ -24,8 +24,8 @@ if (count($general) != 0) {
                <div id="texto-principal" class="col-lg-7">
                   <div class="hero-text text-align: center; align-items: center;" >
                      <h2 id="text-inicial">
-                        <?php echo $item['Titulo'] ?>
                         <?php echo $item['Year'] ?>
+                        <?php echo $item['Titulo'] ?>
                      </h2>
                      <div id="botones">
                         <a  href="https://forms.gle/y1JV7rWVGEE1ao9X7" class="primary-btn pr mr-1" target="_blank">Inscríbete como participante</a>
@@ -104,7 +104,7 @@ if (count($general) != 0) {
             <div class="col-md-6">
                <div class="titlepage">
                   <div class="titulo">
-                     <h2>SIMPOSIO XI</h2>
+                     <h2>XI SIMPOSIO</h2>
                   </div>
                   <p>En este año, la Sede del Caribe de la Universidad de Costa Rica reunirá tanto a docentes como
                      estudiantes de la carrera de Bachillerato en Informática Empresarial en el XI Simposio con el tema
