@@ -24,7 +24,7 @@ if (count($general) != 0) {
                <div id="texto-principal" class="col-lg-7">
                   <div class="hero-text text-align: center; align-items: center;" >
                      <h2 id="text-inicial">
-                        <?php echo $item['Titulo'] ?>
+                        <?php echo $item['Titulo'] ?>  <br>
                         <?php echo $item['Year'] ?>
                      </h2>
                      <div id="botones">
