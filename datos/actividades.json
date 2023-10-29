@@ -51,13 +51,24 @@
                 },
                 {
                     "Nombre": "Micro-taller sobre usos prácticos de la ciencia de datos Parte I (Estudiantes y Docentes)",
-                    "Hora": "10:30 a 12:30",
+                    "Hora": "10:30 a 12:15",
                     "Invitado": "Mci. Carlos Morales Castro",
                     "Profesion": "MCI",
                     "Correo": "",
                     "Aula": "Por definir",
                     "Foto": "dataci.jpg",
                     "requisitos": "Llevar computadora y durante el taller se instalarán las herramientas necesarias"
+                },
+                
+                {
+                    "Nombre": "El impacto de la inteligencia artificial en la formación de profesionales de Informática Empresarial (Estudiantes y Docentes)",
+                    "Hora": "10:30 a 12:15",
+                    "Invitado": "Lic. Delia Smith Paul",
+                    "Profesion": "LIC",
+                    "Correo": "",
+                    "Aula": "Por definir",
+                    "Foto": "IA.png",
+                    "requisitos": "Llevar dispositivo con acceso a internet"
                 },
                 
                 {

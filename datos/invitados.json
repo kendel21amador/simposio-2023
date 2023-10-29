@@ -63,6 +63,15 @@
         "Imagen": "AndresDavidGutierrezCorales.jfif"
     },
     {
+        "Nombre": "Delia Smith Paul",
+        "Profesion": "Licenciada en Desarrollo de Aplicaciones Informáticas",
+        "Descripcion": "Administrador desde hace 50 a\u00f1os",
+        "Facebook_URL": "www.f.com",
+        "Instagram_URL": "www.I.com",
+        "LinkedIn_URL": "www.L.com",
+        "Imagen": "Delia.jpeg"
+    },
+    {
         "Nombre": "Microsoft",
         "Profesion": "Microsoft Corporation",
         "Descripcion": "",
