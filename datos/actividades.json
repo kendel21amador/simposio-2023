@@ -61,7 +61,7 @@
                 },
                 
                 {
-                    "Nombre": "El impacto de la inteligencia artificial en la formación de profesionales de Informática Empresarial (Estudiantes y Docentes)",
+                    "Nombre": "El impacto de la inteligencia artificial en la formación de Profesionales de Informática Empresarial (Estudiantes y Docentes)",
                     "Hora": "10:30 a 12:15",
                     "Invitado": "Lic. Delia Smith Paul",
                     "Profesion": "LIC",
@@ -127,16 +127,6 @@
                     "requisitos": "Llevar computadora y durante el taller se instalarán las herramientas necesarias"
                 },
                 {
-                    "Nombre": "AZURE AI Solutions (Estudiantes)",
-                    "Hora": "9:30 a 12:10",
-                    "Invitado": "Empresa Microsoft",
-                    "Profesion": "CEO",
-                    "Correo": "douglas.jimenezvalle@ucr.ac.cr",
-                    "Aula": "Por definir",
-                    "Foto": "azure.png",
-                    "requisitos": "Llevar computadora y durante el taller se instalarán las herramientas necesarias"
-                },
-                {
                     "Nombre": "Desarrollo Móvil con Flutter (Estudiantes)",
                     "Hora": "8:10 a 12:10",
                     "Invitado": "Mag. Jose Pablo Noguera Espinoza",
@@ -176,6 +166,17 @@
                     "Foto": "sello.png",
                     "requisitos": "No requiere de materiales"
                 },
+                {
+                    "Nombre": "AZURE AI Solutions (Estudiantes)",
+                    "Hora": "9:30 a 12:10",
+                    "Invitado": "Empresa Microsoft",
+                    "Profesion": "CEO",
+                    "Correo": "douglas.jimenezvalle@ucr.ac.cr",
+                    "Aula": "Por definir",
+                    "Foto": "azure.png",
+                    "requisitos": "Llevar computadora y durante el taller se instalarán las herramientas necesarias"
+                },
+               
                 {
                     "Nombre": "Taller: Desarrollo de habilidades para la investigación (Docentes)",
                     "Hora": "10:15 a 12:15",
