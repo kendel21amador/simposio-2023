@@ -61,7 +61,7 @@
                 },
                 
                 {
-                    "Nombre": "El impacto de la inteligencia artificial en la formación de Profesionales de Informática Empresarial (Estudiantes y Docentes)",
+                    "Nombre": "El impacto de la inteligencia artificial en la formación de Profesionales de Informática Empresarial (Estudiantes)",
                     "Hora": "10:30 a 12:15",
                     "Invitado": "Lic. Delia Smith Paul",
                     "Profesion": "LIC",
@@ -79,7 +79,7 @@
                     "Correo": "g22@gmail.com",
                     "Aula": "Por definir",
                     "Foto": "pytorch.png",
-                    "requisitos": "Llevar computadora"
+                    "requisitos": "Llevar computadora" 
                 },
                 {
                     "Nombre": "Taller: Técnicas de Gamificación en el Aula Informática (Docentes)",
